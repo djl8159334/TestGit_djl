@@ -2,6 +2,7 @@ package com.djl.entity;
 
 public class Teacher {
 	public static void main(String[] args) {
-		System.out.println("我是老师吼吼");
+		System.out.println("我是老师哈哈。。");
+		System.out.println("我是老师吼吼。。");
 	}
 }
